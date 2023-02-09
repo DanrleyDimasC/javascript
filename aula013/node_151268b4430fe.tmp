@@ -1,0 +1,6 @@
+var escreva = 0
+while( escreva <= 6){
+   var escreva = ('tudo bem?') 
+   console.log(escreva)
+  var escreva = + 1
+}
